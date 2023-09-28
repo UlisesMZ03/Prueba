@@ -1,6 +1,10 @@
 print("Hola mundo")
 
 print("Hola mundo")
+
+print("Hola mundo")
+print("Hola ulises")
+
 # Definir dos números para sumar
 numero1 = 5
 numero2 = 3
@@ -12,3 +16,4 @@ resultado = numero1 + numero2
 # Imprimir el resultado
 print("El resultado de la suma es:", resultado)
 print("El resultado de la suma es:", resultado)
+
